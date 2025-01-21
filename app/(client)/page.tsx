@@ -1,10 +1,11 @@
 import Container from "@/components/Container";
 import HomeBanner from "@/components/HomeBanner";
 import ProductGrid from "@/components/ProductGrid";
-import Sofa from "../sofa/page";
-import SofaSet from "../sofa2/page";
-import Our_blog from "../blog/page";
-import InstagramSection from "../Instagram/page";
+import Sofa from "@/components/Sofa";
+import SofaSet from "@/components/SofaSet";
+import Our_blog from "@/components/About";
+import InstagramSection from "@/components/Insta";
+
 
 
 
